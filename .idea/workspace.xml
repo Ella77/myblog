@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5cbd919-4ea5-423b-a9a1-224ddd604594" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/local_settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime" beforeDir="false" afterPath="$PROJECT_DIR$/runtime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/local_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/local_settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
